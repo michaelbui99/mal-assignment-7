@@ -1,2 +1,2 @@
 ## Data 
-https://recipenlg.cs.put.poznan.pl/dataset
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv
